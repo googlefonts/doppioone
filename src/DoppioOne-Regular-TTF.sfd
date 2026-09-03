@@ -3368,8 +3368,8 @@ Width: 1026
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 33 44 N -0.999939 0 0 -0.999939 514.969 1299.92 2
-Refer: 33 44 N -0.999939 0 0 -0.999939 981.94 1299.92 2
+Refer: 33 44 N -0.999939 0 0 -0.999939 513.969 1299.92 2
+Refer: 33 44 N -0.999939 0 0 -0.999939 980.94 1299.92 2
 EndChar
 
 StartChar: quoteleft
@@ -3378,7 +3378,7 @@ Width: 508
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 33 44 N -0.999939 0 0 -0.999939 504.969 1299.92 2
+Refer: 33 44 N -0.999939 0 0 -0.999939 503.969 1299.92 2
 EndChar
 
 StartChar: quoteright
@@ -4013,8 +4013,8 @@ Width: 1197
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 116 8249 N -0.999939 0 0 1 654.96 0 2
-Refer: 116 8249 N -0.999939 0 0 1 1232.92 0 2
+Refer: 116 8249 N -0.999939 0 0 1 653.96 0 2
+Refer: 116 8249 N -0.999939 0 0 1 1231.92 0 2
 EndChar
 
 StartChar: ellipsis
@@ -5331,7 +5331,7 @@ Width: 584
 Flags: HW
 LayerCount: 2
 Fore
-Refer: 67 33 N -0.999939 0 0 -0.999939 583.964 1423.91 2
+Refer: 67 33 N -0.999939 0 0 -0.999939 582.964 1423.91 2
 EndChar
 
 StartChar: questiondown
@@ -9662,7 +9662,7 @@ Flags: HW
 LayerCount: 2
 Fore
 Refer: 15 100 N 1 0 0 1 0 0 3
-Refer: 60 729 N 1 0 0 1 311 0 2
+Refer: 60 729 N 1 0 0 1 313 0 2
 EndChar
 
 StartChar: uni1E0A
